@@ -3,5 +3,5 @@
 main()
 {
 printf("Yeahhhhhhhhh!!\n"");
-printf("Lets go drinking!!!\n");
+printf("Waaaao!\n");
 }
